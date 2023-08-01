@@ -104,6 +104,7 @@ header nav ul li a {
     float: left;
     padding: 0px 40px;
     
+    
 }
 
 .section-one {
@@ -137,8 +138,12 @@ header nav ul li a {
 /******** FOOTER STYLES ********/
 footer {
     text-align: center;
+    margin-top: 8px;
 }
 
 footer span {
-
+    font-family: "Galada", cursive;
+    text-transform: lowercase;
+    color: #45610E;
+    font-size: 14px;
 }
